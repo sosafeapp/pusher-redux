@@ -6,8 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "pusher-js": "^5.0.0"
+  "devDependencies": {
+    "pusher-js": "^7.0.3"
+  },
+  "peerDependencies": {
+    "pusher-js": "^7.0.3"
   },
   "keywords": [
     "pusher",
